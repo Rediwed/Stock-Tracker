@@ -1,6 +1,6 @@
 # 📦 Stock Tracker
 
-A cross-platform household food, liquid & medicine inventory tracker — delivered as a locally hosted web application with a dark, modern UI.
+A cross-platform household food, liquid & medicine inventory tracker delivered as a locally hosted web application with a modern UI.
 
 Built for households that want to track what they have in stock, how long it'll last, and when things expire.
 
