@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Database (user data)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Build output
+client/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Temp files
+fix-quantities.js
