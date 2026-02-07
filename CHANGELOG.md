@@ -18,6 +18,5 @@ All notable changes to this project will be documented in this file.
 - **Dark theme UI** with custom CSS, Inter + JetBrains Mono fonts
 - **Sidebar navigation** with 6 pages
 - **Sample database seeder** (`seed-sample.js`) with demo data
-- **Dutch food inventory seeder** (`seed-data.js`) with 33 real items
 - **Production build** — single-port deployment with Express serving built React app
 - **SQLite database** with WAL mode, auto-created on first run

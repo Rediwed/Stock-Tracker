@@ -93,8 +93,6 @@ This creates:
 
 > ⚠️ **Warning:** This clears all existing data. Back up `data/stock.db` first if you have real data.
 
-There's also a Dutch food inventory seeder (`seed-data.js`) with 33 real items.
-
 ---
 
 ## 📁 Project Structure
@@ -130,8 +128,7 @@ stock-tracker/
 │           ├── Liquids.jsx
 │           └── Medicine.jsx
 │
-├── seed-data.js              # Dutch food inventory seeder (33 items)
-├── seed-sample.js            # Full sample database seeder
+├── seed-sample.js            # Sample database seeder
 ├── package.json
 └── data/                     # SQLite database (gitignored)
     └── stock.db
